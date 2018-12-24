@@ -1,8 +1,7 @@
 ---
 title: Les ravages  de la culture  du cacao
 date: 2018-12-24T19:12:14.539Z
-description: |
-  Les cultures de cacao dévorent les forêts tropicales
+description: Les cultures de cacao dévorent les forêts tropicales
 image: /img/conso-production.png
 ---
 En Afrique, qui fournit près des trois quarts des marchés mondiaux, il a pour prix la dévastation massive des paysages dans l’ouest du continent. Au Brésil, le ministère du travail a rendu pu-blic en novembre, avec l’Organisa-tion internationale du travail, une enquête concluant à la « présence significative » de labeur forcé et d’enfants à la tâche dans les plantations de cacaoyers.
@@ -14,54 +13,29 @@ d’autres espèces de la Côte d’Ivoire sont également menacés. » Il ne
 reste plus qu’entre 200 et 400 éléphants sur une population qui à
 l’origine en comptait des dizaines de milliers.
 
-> « Au Ghana et
-> en Côte d’Ivoire,
-> il ne suffira pas
-> d’arrêter
-> le massacre,
-> il faut restaurer
-> les écosystèmes »
-> FRÉDÉRIC AMIEL
-> chercheur à l’Iddri
+> « Au Ghana et en Côte d’Ivoire, il ne suffira pas d’arrêter
+> le massacre, il faut restaurer les écosystèmes »
+> FRÉDÉRIC AMIEL -- chercheur à l’Iddri --
 
-Pour les gourmands européens,
-la question de la consommation
+Pour les gourmands européens, la question de la consommation
 responsable se pose, car les Vingt-
-Huit achètent plus de la moitié de
-la production de la planète. Ainsi,
-chaque année 300 000 tonnes de
-fèves entrent dans le port d’Anvers,
-la Belgique étant en retour
-un important exportateur de chocolat.
-Loin derrière le soja et l’huile
-de palme, le cacao constitue la
-troisième cause de déforestation
-importée imputable à l’Union
-européenne. Et sa production
-(4,7 millions de tonnes en 2016-
-2017), ne cesse d’augmenter, pour
-répondre à un appétit général qui
+Huit achètent plus de la moitié de la production de la planète. Ainsi,
+chaque année 300 000 tonnes de fèves entrent dans le port d’Anvers,
+la Belgique étant en retour un important exportateur de chocolat.
+Loin derrière le soja et l’huile de palme, le cacao constitue la
+troisième cause de déforestation importée imputable à l’Union
+européenne. Et sa production (4,7 millions de tonnes en 2016-
+2017), ne cesse d’augmenter, pour répondre à un appétit général qui
 s’aiguise, y compris en Asie.
-Résultat : les plantations de cacaoyers
-sont passées d’environ
-4 millions d’hectares au début des
-années 1970, à plus de 10 millions
-d’hectares en 2013, selon des statistiques
-de la FAO. Elles gagnent
-du terrain en Afrique, en Amérique
-latine et jusqu’en Océanie. Le
-Cameroun et le Liberia ont au demeurant
-affirmé vouloir développer
-cette culture sans déforestation.
-« En Afrique, l’enjeu est de
-promouvoir de meilleures méthodes,
-plus productives, là où ce n’est
-pas trop tard, estime Frédéric
-Amiel, de l’Iddri. Quant au Ghana
-et à la Côte d’Ivoire, il ne suffira pas
-d’y arrêter le massacre, il faut restaurer
-les écosystèmes. »\
-\
+Résultat : les plantations de cacaoyers sont passées d’environ 4 millions d’hectares au début des
+années 1970, à plus de 10 millions d’hectares en 2013, selon des statistiques
+de la FAO. Elles gagnent du terrain en Afrique, en Amérique
+latine et jusqu’en Océanie. Le Cameroun et le Liberia ont au demeurant
+affirmé vouloir développer cette culture sans déforestation.
+« En Afrique, l’enjeu est de promouvoir de meilleures méthodes,
+plus productives, là où ce n’est pas trop tard, estime Frédéric
+Amiel, de l’Iddri. Quant au Ghana et à la Côte d’Ivoire, il ne suffira pas
+d’y arrêter le massacre, il faut restaurer les écosystèmes. »
 
 Les acteurs de la filière se sont 
 décidés à réagir. Une définition 
